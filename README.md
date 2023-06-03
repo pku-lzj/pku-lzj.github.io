@@ -3,7 +3,7 @@
 ## 1.作业1
 作业1描述:
 用三国演义的人物词频图
-[作业1链接](http://htmlpreview.github.io/？https://github.com/pku-lzj/pku-lzj.github.io/blob/main/wordcloud_opts.html)
+[作业1链接](http://htmlpreview.github.com/?https://github.com/pku-lzj/pku-lzj.github.io/blob/main/wordcloud_opts.html)
 ## 2.作业2
 作业2描述：
 全国各省人均GDP的地图
